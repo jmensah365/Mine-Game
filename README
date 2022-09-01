@@ -1,0 +1,4 @@
+# Minesweeper
+# Jeremiah Mensah and Emma Fischer
+#Our project is a game
+#Minesweeper is a game where the computer places hidden mines on a board of squares. The player must randomly select a box to reveal what is underneath. This box can contain either a mine, a number, or nothing. If there is a mine in the box, the user loses. If the box contains a number, this means that there are that many mines surrounding the box in a one square radius (each corner and side). If there is nothing, that means the box is not touching any mines. The objective is to uncover all of the numbered and blank squares without setting off any mines. The user can also mark squares that they believe are mines in order to keep track of them.
